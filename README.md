@@ -3,6 +3,7 @@
 ## Google Colab Link: https://colab.research.google.com/drive/1tsst8d46SMxuhaZANdB5dhb4hXdYvKyw?usp=sharing
 
 ### 1. What is the Fashion MNIST Dataset?
+The Fashion-MNIST dataset was created as a direct, more difficult drop-in substitute for the original handwritten digit MNIST dataset. It consists of 70,000 grayscale photos of ten different apparel categories. With 60,000 training photos and 10,000 test images, it was developed by Zalando Research and is frequently used for assessing machine learning systems.
 
 ### 2. Why do we normalize image pixel values before training?
 
